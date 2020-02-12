@@ -1,0 +1,14 @@
+.active {
+    color: red;
+}
+span {
+    padding-left: 30px;
+}
+li {
+    list-style: none;
+    margin: 20px;
+}
+input {
+    border: 1px solid;
+    width: 220px;
+}
